@@ -58,7 +58,3 @@ Basado en la evidencia, se proponen las siguientes acciones:
 * **Análisis Estadístico:** `Seaborn` & `Matplotlib`.
 
 ---
-
-
-
-3. **Ejecución:** Asegúrate de contar con conexión a internet para que la librería requests pueda obtener el archivo JSON desde la nube.
